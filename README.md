@@ -3,9 +3,7 @@
 <p align="center">
   <img src="**Walmart Sales Data Analysis Dashboard.png**" alt="Walmart Sales Data Analysis" width="100%">
 </p>
-<p align="center">
-  <img src="./walmart-sales-analysis.png" alt="Walmart Sales Analysis" width="100%">
-</p>
+
 <p align="center">
   <b>End-to-End Data Analysis using Python, Jupyter Notebook & MySQL</b>
 </p>
