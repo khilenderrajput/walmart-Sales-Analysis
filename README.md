@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Data Analysis
 
 <p align="center">
-  <img src="./assets/walmart-sales-analysis.png" alt="Walmart Sales Data Analysis" width="100%">
+  <img src=""C:\Users\Om\Downloads\Walmart Sales Data Analysis Dashboard.png"" alt="Walmart Sales Data Analysis" width="100%">
 </p>
 
 <p align="center">
