@@ -1,0 +1,9 @@
+{
+  "name": "walmart-sales-analysis-site",
+  "version": "1.0.0",
+  "description": "Walmart Sales Analysis (Python + MySQL) project showcase",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

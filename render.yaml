@@ -1,0 +1,7 @@
+# Render Blueprint: deploys the site as a free Static Site.
+services:
+  - type: web
+    name: walmart-sales-analysis
+    runtime: static
+    buildCommand: echo "static site, nothing to build"
+    staticPublishPath: ./public
